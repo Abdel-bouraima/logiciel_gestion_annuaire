@@ -54,7 +54,7 @@
  					<a href="#" title="Page d'accueil"> Accueil</a>
  				</li>
  				<li>
- 					<a href="annuaire.php" title="Tout le personnel">Annaire</a>
+ 					<a href="annuaire.php" title="Tout le personnel">Annuaire</a>
  				</li>
  				
                 <li>
